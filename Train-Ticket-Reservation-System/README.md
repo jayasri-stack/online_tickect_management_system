@@ -82,8 +82,8 @@ Train-Ticket-Reservation-System/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd Train-Ticket-Reservation-System
+   git clone https://github.com/jayasri-stack/online_tickect_management_system.git
+   cd online_tickect_management_system/Train-Ticket-Reservation-System
    ```
 
 2. **Configure Database**
